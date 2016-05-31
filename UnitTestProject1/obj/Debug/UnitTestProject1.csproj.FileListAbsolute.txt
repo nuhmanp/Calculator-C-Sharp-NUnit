@@ -1,0 +1,7 @@
+G:\QA\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+G:\QA\Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+G:\QA\Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+G:\QA\Calculator\UnitTestProject1\bin\Debug\Calculator.exe
+G:\QA\Calculator\UnitTestProject1\bin\Debug\Calculator.pdb
+G:\QA\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+G:\QA\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
